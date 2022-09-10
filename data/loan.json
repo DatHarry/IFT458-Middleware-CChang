@@ -1,0 +1,57 @@
+[
+       {
+        "id": 0,
+        "customerName": "John",
+        "phoneNumber": "4801112222",
+        "address": "751 E Bell Rd, Phoenix, AZ 85022",
+        "loanAmount": "250",
+        "interest": "0.06",
+        "loanTermYears" : "4",
+        "loanType": "Student Loan",
+        "description": "John is studying in ASU"
+      }, 
+      {
+        "id": 1,
+        "customerName": "Josh",
+        "phoneNumber": "4801121122",
+        "address": "3141 E Indian School Rd, Phoenix, AZ 85016",
+        "loanAmount": "500",
+        "interest": "0.1",
+        "loanTermYears" : "3",
+        "loanType": "Mortgage Loan",
+        "description": "Use for starting a new business"
+      }, 
+      {
+        "id": 2,
+        "customerName": "Joseph",
+        "phoneNumber": "4801221122",
+        "address": "507 W Thomas Rd, Phoenix, AZ 85013",
+        "loanAmount": "300",
+        "interest": "0.03",
+        "loanTermYears" : "1.5",
+        "loanType": "Auto Loan",
+        "description": "Used car"
+      }, 
+      {
+        "id": 3,
+        "customerName": "Joanna",
+        "phoneNumber": "4801112121",
+        "address": "1857 N Scottsdale Rd, Tempe, AZ 85281",
+        "loanAmount": "60",
+        "interest": "0.2",
+        "loanTermYears" : "1",
+        "loanType": "Payday Loan",
+        "description": "Critical"
+      },
+      {
+        "id": 4,
+        "customerName": "Joel",
+        "phoneNumber": "4801112211",
+        "address": "3603 E Indian School Rd, Phoenix, AZ 85018",
+        "loanAmount": "100",
+        "interest": "0.15",
+        "loanTermYears" : "5",
+        "loanType": "Home Equity Loan",
+        "description": "Investment use"
+      }
+]
